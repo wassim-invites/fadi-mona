@@ -54,6 +54,13 @@
     "photos/Wedding 16.jpg"
   ],
   "guests": {
+    "Rony-Family": {
+      "en": "Rony Family",
+      "members": [
+        "Rony",
+        "Cindi"
+      ]
+    },
     "Al-Baba-Family": {
       "en": "Al Baba Family",
       "members": [
