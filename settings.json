@@ -54,6 +54,13 @@
     "photos/Wedding 16.jpg"
   ],
   "guests": {
+    "Al-Baba-Family": {
+      "en": "Al Baba Family",
+      "members": [
+        "Wassim",
+        "Karen"
+      ]
+    },
     "Wassim-Test": {
       "en": "Wassim Test",
       "members": [
